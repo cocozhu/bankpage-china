@@ -1,0 +1,34 @@
+
+
+/* more about humanstext :  http://humanstxt.org/ZH  */
+
+
+
+/* TEAM */
+
+
+developer: Liya Zuo.
+
+
+Email: zuo@felizz.de
+
+QQ: 11201402.
+
+
+Location: Bonn, Germany.
+
+
+
+
+
+
+/* SITE */
+
+Name: youhuima
+URL: www.youhuima.de
+
+
+Standards: HTML5, CSS3
+
+
+Components: jQuery, Wordpress, etc.
